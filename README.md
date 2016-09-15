@@ -1,3 +1,4 @@
+foo
 # Vaadin ContextMenu Add-on 
 
 Vaadin ContextMenu is an UI component add-on for Vaadin 7.
