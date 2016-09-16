@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "SONATYPE_USERNAME: $SONATYPE_USERNAME"
+echo "FOO: $FOO"
 
 if [ "$TRAVIS_BRANCH" = "master" ] && [ "$TRAVIS_SECURE_ENV_VARS" = "true" ]
 then
