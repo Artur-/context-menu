@@ -1,6 +1,6 @@
 <servers>
     <server>
-        <id>vaadin-snapshot</id>
+        <id>vaadin-snapshots</id>
         <username>${env.SONATYPE_USERNAME}</username>
         <password>${env.SONATYPE_PASSWORD}</password>
     </server>
